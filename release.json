@@ -1,1 +1,14 @@
-
+[
+  {
+    "version":"0.1b",
+    "title":"some title",
+    "new features":"1,4,45",
+    "url":""
+  },
+  {   
+    "version":"0.2b",
+    "title":"asdasd",
+    "new features":"nwe",
+    "url":"asdjkasdasd"
+  }
+]
