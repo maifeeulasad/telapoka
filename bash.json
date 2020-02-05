@@ -2,11 +2,17 @@
   {
     "title":"f",
     "description":"fff",
-    "bash":"c1\nc2"
+    "bash":"c1 \
+            nc2"
   },
   {
     "title":"gbi",
     "description":"asdasfff",
-    "bash":"c1\nc2\n\nsdf"
+    "bash":"c1 \
+            nc2 \
+            n \
+                   \
+                   \
+            nsdf"
   }
 ]
